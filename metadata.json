@@ -1,0 +1,6 @@
+{
+  "name": "Azure Vale",
+  "description": "A stylized cel-shaded 3D anime valley featuring rolling meadows, rivers, ancient ruins, and smooth third-person exploration.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
